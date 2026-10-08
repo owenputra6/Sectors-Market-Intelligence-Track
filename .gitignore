@@ -1,0 +1,12 @@
+**/__pycache__/
+*.py[cod]
+backend/.env
+backend/.venv/
+backend/venv/
+backend/data/cache/
+backend/data/weekly/
+frontend/.dart_tool/
+frontend/build/
+frontend/android/.gradle/
+frontend/ios/Pods/
+frontend/.metadata
